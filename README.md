@@ -1,4 +1,3 @@
-# Power-BI-Projects
-The Dashboard Collection
+# Data Analyst Projects 
 <br>
 By: Khushi Bhatt
