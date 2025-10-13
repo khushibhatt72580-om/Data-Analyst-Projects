@@ -1,2 +1,4 @@
 # Power-BI-Projects
-The Dashboard Collection by Khushi Bhatt
+The Dashboard Collection
+<br>
+- Khushi Bhatt
